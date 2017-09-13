@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/deepak/AndroidStudioProjects/SmartConfig-master/viewPagerIndicatorLibrary/src/main/assets"/><source path="/Users/deepak/AndroidStudioProjects/SmartConfig-master/viewPagerIndicatorLibrary/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/deepak/AndroidStudioProjects/SmartConfig-master/viewPagerIndicatorLibrary/src/debug/assets"/></dataSet></merger>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/SmartConfig-master/viewPagerIndicatorLibrary/build/intermediates/res/merged/release/color/vpi__light_theme.xml",
+        "source": "/Users/deepak/AndroidStudioProjects/SmartConfig-master/viewPagerIndicatorLibrary/src/main/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/SmartConfig-master/viewPagerIndicatorLibrary/build/intermediates/res/merged/release/color/vpi__dark_theme.xml",
+        "source": "/Users/deepak/AndroidStudioProjects/SmartConfig-master/viewPagerIndicatorLibrary/src/main/res/color/vpi__dark_theme.xml"
+    }
+]
